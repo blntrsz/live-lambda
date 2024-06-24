@@ -17,7 +17,7 @@ npx tsx index.ts
 
 ## Workflow
 
-![image](https://github.com/blntrsz/live-lambda/assets/81449016/d5522822-d309-479c-b290-652cefc58f4a)
+![image](https://github.com/blntrsz/live-lambda/assets/81449016/398c4f96-5950-4b5e-8e53-bc0e9e8435f2)
 
 ## Demo
 
