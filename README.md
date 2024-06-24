@@ -5,10 +5,10 @@ Install dependencies:
 ```bash
 pnpm i
 ```
-Start cdk watch (watch is not necessary) with local context
+Deploy the CDK application with a local context
 
 ```bash
-pnpm cdk deploy --watch -c local=true
+pnpm cdk deploy -c local=true
 ```
 
 ```bash
