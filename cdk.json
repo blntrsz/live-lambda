@@ -1,10 +1,11 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/live-lambda.ts",
+  "app": "npx tsx bin/live-lambda.ts",
   "watch": {
     "include": [
       "**"
     ],
     "exclude": [
+      "lib/handler",
       "README.md",
       "cdk*.json",
       "**/*.d.ts",
